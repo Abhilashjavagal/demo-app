@@ -1,0 +1,121 @@
+
+.celebration-main {
+    position: absolute;
+    height: 11.14%;
+    width: 26.44%;
+    top: 13.11%;
+    right: 73.56%;
+    bottom: 75.75%;
+    left: 0;
+    font-size: 30px;
+  }
+  .brainstorming {
+    font-size: 2rem;
+  }
+  .townhall{
+    position: absolute;
+    top: 66.39%;
+    left: 1rem;
+    font-weight: 500;
+  }
+  .opportunities-main{
+  position: absolute;
+  height: 40.72%;
+  width: 100%;
+  top: 59.28%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.opportunities-main {
+  height: 20.69%;
+  width: 42.92%;
+  top: 27.06%;
+  right: 55.62%;
+  bottom: 52.25%;
+  left: 1.46%;
+  font-size: 22px;
+  color: var(--color-gray-200);
+}
+  .opportunities {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: inline-block;
+  }
+  .opportunities1 {
+    position: absolute;
+    width: 100%;
+    top: 8rem;
+    left: 0;
+    display: inline-block;
+  }
+  .festive-vibes {
+    position: absolute;
+    top: 57.96%;
+    left: 41.2%;
+    font-size: 28px;
+  }
+  .images-banner {
+    position: absolute;
+    height: 31.27%;
+    width: 46.61%;
+    top: 13.11%;
+    right: 5.75%;
+    bottom: 55.62%;
+    left: 47.64%;
+  }
+.images {
+  position: absolute;
+  top: 57.96%;
+  left: 35.97%;
+}
+.images {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.images1,
+.images2 {
+  height: 28%;
+  width: 31.24%;
+  top: 65.64%;
+  bottom: 6.37%;
+  object-fit: cover;
+}
+.images1 {
+  position: absolute;
+  right: 67.3%;
+  left: 1.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.images2 {
+    right: 33.65%;
+    left: 35.11%;
+  }
+  .images3,
+  .images2{
+    position: absolute;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .images3 {
+    height: 28%;
+    width: 31.24%;
+    top: 65.64%;
+    right: 0;
+    bottom: 6.37%;
+    left: 68.76%;
+    object-fit: cover;
+  }

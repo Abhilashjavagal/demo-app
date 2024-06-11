@@ -1,0 +1,112 @@
+.main {
+    position: absolute;
+    height: 11.14%;
+    width: 38.97%;
+    top: 13.11%;
+    right: 61.03%;
+    bottom: 75.75%;
+    left: 0;
+    font-size: 30px;
+  }
+  .brainstorming {
+    font-size: 2rem;
+    font-weight: 700;
+    left:1rem;
+    position: absolute;
+  }
+  .rewards{
+    position: absolute;
+    top: 66.39%;
+    left: 1rem;
+    font-weight: 500;
+  }
+  .content{
+    position: absolute;
+    height: 12.92%;
+    width: 42.92%;
+    top: 29.96%;
+    right: 55.62%;
+    bottom: 57.12%;
+    left: 1.46%;
+    font-size: 22px;
+    color: var(--color-gray-700);
+  }
+.content1{
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  width: 31.25rem;
+  top: 0;
+}
+.content2{
+    top: 5.125rem;
+    position: absolute;
+    left: 0;
+    display: inline-block;
+    width: 31.25rem;
+}
+  .collaborative-vibes{
+  position: absolute;
+  top: 57.96%;
+  left: 39.97%;
+  font-size: 28px;
+  }
+
+.image {
+  height: 100%;
+  width: 100%;
+  top: 57.96%;
+  left: 35.97%;
+  right: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-banner {
+    position: absolute;
+    height: 31.27%;
+    width: 46.61%;
+    top: 13.11%;
+    right: 5.75%;
+    bottom: 55.62%;
+    left: 47.64%;
+  }
+  
+  .image1,
+.image2 {
+  height: 28%;
+  width: 31.24%;
+  top: 65.64%;
+  bottom: 6.37%;
+  object-fit: cover;
+}
+.image1 {
+  position: absolute;
+  right: 67.3%;
+  left: 1.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image1 {
+    right: 33.65%;
+    left: 35.11%;
+  }
+  .image3,
+  .image2 {
+    position: absolute;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .image3 {
+    height: 28%;
+    width: 31.24%;
+    top: 65.64%;
+    right: 0;
+    bottom: 6.37%;
+    left: 68.76%;
+    object-fit: cover;
+  }

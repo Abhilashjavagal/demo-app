@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lemon:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-karla: Karla;
+  --font-lato: Lato;
+  --font-inter: Inter;
+  --font-mulish: Mulish;
+  --font-playfair-display: "Playfair Display";
+  --font-lemon: Lemon;
+  --font-source-sans-pro: "Source Sans Pro";
+
+  /* font sizes */
+  --font-size-sm: 0.875rem;
+  --font-size-5xl-4: 1.525rem;
+  --font-size-21xl: 2.5rem;
+  --font-size-lg: 1.125rem;
+  --font-size-lg-7: 1.169rem;
+  --font-size-13xl: 2rem;
+  --font-size-mini-6: 0.913rem;
+  --font-size-sm-7: 0.856rem;
+  --font-size-mid-6: 1.1rem;
+  --font-size-xl: 1.25rem;
+  --font-size-17xl: 2.25rem;
+  --font-size-lg-5: 1.156rem;
+  --font-size-11xl: 1.875rem;
+  --font-size-3xl-3: 1.394rem;
+  --font-size-3xl: 1.375rem;
+  --font-size-9xl: 1.75rem;
+  --font-size-base: 1rem;
+  --font-size-5xl: 1.5rem;
+  --font-size-61xl: 5rem;
+  --font-size-3xl-4: 1.4rem;
+  --font-size-7xl: 1.625rem;
+  --font-size-base-9: 0.994rem;
+  --font-size-sm-3: 0.831rem;
+  --font-size-3xs: 0.625rem;
+  --font-size-31xl-7: 3.169rem;
+  --font-size-5xl-6: 1.538rem;
+  --font-size-13xl-8: 2.05rem;
+  --font-size-3xl-5: 1.406rem;
+  --font-size-25xl: 2.75rem;
+  --font-size-lgi: 1.188rem;
+  --font-size-mini-4: 0.9rem;
+  --font-size-base-6: 1.038rem;
+  --font-size-2xs-7: 0.669rem;
+
+  /* Colors */
+  --white: #fff;
+  --color-gray-100: #1a2747;
+  --color-gray-200: #050505;
+  --color-gray-300: rgba(0, 0, 0, 0.7);
+  --color-gray-400: rgba(5, 5, 5, 0.8);
+  --color-gray-500: rgba(26, 39, 71, 0.5);
+  --color-gray-600: rgba(5, 5, 5, 0.5);
+  --color-gray-700: rgba(5, 5, 5, 0.7);
+  --color-cornflowerblue-100: #797cd0;
+  --color-cornflowerblue-200: rgba(121, 124, 208, 0.7);
+  --color-cornflowerblue-300: rgba(121, 124, 208, 0.8);
+  --color-cornflowerblue-400: rgba(121, 124, 208, 0.6);
+  --color-black: #000;
+  --color-lightslategray-100: rgba(127, 133, 149, 0.7);
+  --color-lightslategray-200: rgba(131, 138, 154, 0.7);
+  --color-blueviolet: #9747ff;
+  --color-darkgray-100: #b1b1b1;
+  --color-darkgray-200: #a0aaae;
+  --color-dimgray: #666;
+  --color-whitesmoke: #f8f8f8;
+
+  /* Gaps */
+  --gap-mini-2: 0.887rem;
+
+  /* Paddings */
+  --padding-13xl: 2rem;
+  --padding-11xl: 1.875rem;
+  --padding-8xs-7: 0.293rem;
+  --padding-2xs-7: 0.668rem;
+  --padding-3xs-5: 0.593rem;
+  --padding-lgi: 1.187rem;
+  --padding-3xl: 1.375rem;
+  --padding-lg: 1.125rem;
+  --padding-9xs: 0.25rem;
+
+  /* Border radiuses */
+  --br-11xl: 30px;
+  --br-xl: 20px;
+  --br-3xl-2: 22.2px;
+  --br-99xl-5: 118.5px;
+  --br-11xs-2: 1.2px;
+  --br-mini-9: 14.9px;
+  --br-lgi-5: 19.5px;
+  --br-xs: 12px;
+  --br-5xl: 24px;
+  --br-5xs: 8px;
+  --br-45xl: 64px;
+  --br-25xl-8: 44.8px;
+  --br-21xl: 40px;
+  --br-mini-1: 14.1px;
+  --br-5xs-5: 7.5px;
+  --br-base: 16px;
+  --br-8xs: 5px;
+  --br-36xl-5: 55.5px;
+  --br-lgi: 19px;
+  --br-mid-8: 17.8px;
+  --br-8xs-4: 4.4px;
+  --br-xs-4: 11.4px;
+  --br-10xs-8: 2.8px;
+  --br-92xl: 111px;
+  --br-3xl-8: 22.8px;
+  --br-5xs-8: 7.8px;
+  --br-6xs: 7px;
+}
